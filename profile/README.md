@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LOGO_URL_HIER_EINFÜGEN" alt="Nebuliton Logo" width="160"/>
+  <img src="https://raw.githubusercontent.com/ORGNAME/.github/main/profile/logo.png" alt="Nebuliton Logo" width="160"/>
 </p>
 
 <h1 align="center">🚀 Willkommen bei Nebuliton</h1>
